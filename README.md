@@ -1,4 +1,5 @@
 # IT5016
+
 class Movie:
     def __init__(self, title, genre, year):
         # Initialize a movie with title, genre, year, and availability status
